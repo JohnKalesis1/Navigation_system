@@ -1,5 +1,5 @@
 # Navigation_system
-Given a set of directions to follow , returns the final destination
+Given a set of directions to follow , returns the final destination.
   Take the <NEXT,2nd,3rd,4th,5th> <LEFT,RIGHT>
   Go straight on for <100,200,300,...,900>m
   Go straight on for <1.0,1.1,1.2,...,5.0>km
